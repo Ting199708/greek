@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Greek Alphabet</string>
+    <string name="greek">Greek Alphabet</string>
+    <string name="hint">Handwriting recognition area\n(Only support lower-case alphabet)</string>
+    <string name="switch_type1">lower-case</string>
+    <string name="switch_type2">block capitals</string>
+    <string name="cannotread">Unrecognizable</string>
+</resources>

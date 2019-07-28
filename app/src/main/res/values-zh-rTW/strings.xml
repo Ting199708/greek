@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">希臘字母表</string>
+    <string name="greek">希臘字母表</string>
+    <string name="hint">手寫進行辨識 (僅支援小寫)</string>
+    <string name="switch_type1">小寫</string>
+    <string name="switch_type2">大寫</string>
+    <string name="cannotread">無法辨識</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Greek Alphabet</string>
+    <string name="greek">希腊字母表</string>
+    <string name="hint">手写进行辨识 (仅支持小写)</string>
+    <string name="switch_type1">小写</string>
+    <string name="switch_type2">大写</string>
+    <string name="cannotread">无法辨识</string>
+</resources>
